@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6i0269/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6i0269_T_000-0460c04, ed: T, 'n': 0460c04}
+  - {type: line-break, offset: 0, content: '', id: KR6i0269_T_000-0460c05, ed: T, 'n': 0460c05}
+  - {type: line-break, offset: 0, content: '', id: KR6i0269_T_000-0460c06, ed: T, 'n': 0460c06}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0269_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0269_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0269_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '6', id: KR6i0269_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0269_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '2', id: KR6i0269_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6i0269_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0269_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0269_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: s, id: KR6i0269_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0269_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '6', id: KR6i0269_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0269_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0269_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ',', id: KR6i0269_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '6', id: KR6i0269_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0269_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0269_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6i0269_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0269_T_000-0460c07, ed: T, 'n': 0460c07}
+  - {type: variant, offset: 0, length: 0, content: '4', 大: '1'}
+  body: []
+  back: []
+hash: sha256:048a4df8af95f1b29ed8574f774cf2f83c26a19b6f9a9cccb775f8d61f335d9c
